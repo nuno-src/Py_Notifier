@@ -1,2 +1,2 @@
-# Py_Notifier
+# Py Notifier
 A Program to notify the user
